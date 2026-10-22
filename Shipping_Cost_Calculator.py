@@ -1,5 +1,4 @@
 # Here is a new update by rhhtahina
-# Here is another update by rhhtahina
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
